@@ -24,6 +24,7 @@ Random Forest Regressor performed the best with an R² Score of approximately 0.
 1. Install required libraries:
 2. Run the Streamlit app: streamlit run app.py
 3. Open in browser: http://localhost:8501
+
 ⚠️ Note
 
 The trained model file (best_model.pkl) is not uploaded due to GitHub size limitations. It can be generated locally by running the training notebook and saving the trained model.
