@@ -22,3 +22,20 @@ Random Forest Regressor performed the best with an R² Score of approximately 0.
 ## 💻 How to Run the Project
 
 1. Install required libraries:
+2. Run the Streamlit app: streamlit run app.py
+3. Open in browser: http://localhost:8501
+⚠️ Note
+
+The trained model file (best_model.pkl) is not uploaded due to GitHub size limitations. It can be generated locally by running the training notebook and saving the trained model.
+
+🚀 Output
+Predicts bike rental demand based on user inputs
+Displays demand level: Low, Medium, or High
+Provides a practical interface for testing the machine learning model
+📊 Technologies Used
+Python
+Pandas
+NumPy
+Scikit-learn
+Streamlit
+Joblib
